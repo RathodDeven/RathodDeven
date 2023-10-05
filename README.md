@@ -3,7 +3,7 @@
 ## I make web apps, mobile apps, and games!!
 
 - 🔭 Check out my Web3 Social Platform : DiverseHQ on [Web](https://diversehq.xyz) and [Android](https://play.google.com/store/apps/details?id=xyz.diversehq) . ( [Twitter](https://twitter.com/useDiverseHQ) 18k+, [Lens](https://diversehq.xzy/u/diversehq) 13k+ )
-- 🎮 I'm currently working on a high pace Multiplayer game, check [Twitter](https://twitter.com/devenrathodrd) for more updates
+- 🎮 Currently working on a high pace Multiplayer game, check twitter for updates
 - 👯 I’m also working on many other web3 open-source projects and winning hackathons
 - 🥅 2023-2024 Goals: Increase internet presence and make products earn for me
 - ⚡ Things I like: Books, anime and gaming
