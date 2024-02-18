@@ -3,7 +3,7 @@
 ## I make web apps, mobile apps, and games!!
 
 - Building [https://bloomers.tv](https://bloomers.tv)
-- 🔭 Check out my Web3 Social Platform : DiverseHQ on [Web](https://diversehq.xyz) and [Android](https://play.google.com/store/apps/details?id=xyz.diversehq) . ( [Twitter](https://twitter.com/useDiverseHQ) 18k+, [Lens](https://diversehq.xzy/u/diversehq) 13k+ )
+- 🔭 Built & grew DiverseHQ (5k+ users). ( [Twitter](https://twitter.com/useDiverseHQ) 15k+, [Lens](https://hey.xzy/u/diversehq) 13k+ )
 - 👯 I’m also working on many other web3 open-source projects. 
 - ⚡ Things I like: Books, anime and gaming
 
