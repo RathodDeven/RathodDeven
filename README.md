@@ -15,7 +15,6 @@
 [Telegram](https://t.me/devenrathodrd)  &nbsp;&nbsp;
 [Hey](https://hey.xyz/u/rathod)  &nbsp;&nbsp;
 [Youtube](https://www.youtube.com/channel/UCWpwlcadgurpj8lRlBE_C8w)  &nbsp;&nbsp;
-[Gaming](https://www.youtube.com/channel/UCc32z6P80meLcf-unXJOlog)
 
 
 ### Languages and Tools:
