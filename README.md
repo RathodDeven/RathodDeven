@@ -11,8 +11,8 @@
 
 ### Connect with me:
 
-[Twitter](https://twitter.com/devenrathodrd) &nbsp;&nbsp;
 [Telegram](https://t.me/devenrathodrd)  &nbsp;&nbsp;
+[Twitter](https://twitter.com/devenrathodrd) &nbsp;&nbsp;
 [Hey](https://hey.xyz/u/rathod)  &nbsp;&nbsp;
 
 ### Languages and Tools:
