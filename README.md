@@ -21,7 +21,7 @@
 <img align="left" alt="Unity" width="26px" src="./unity-icon.jpg" style="padding-right:10px;background-color:white;" />
 <img align="left" alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="ThreeJs" width="26px" src="./threejs-icon.png" style="padding-right:10px;" />
-<img align="left" alit="Lens"  width="26px" src="https://github.com/lens-protocol/brand-kit/blob/main/01%20Logo/PNG/%402x/Icon-Green_%402x.png" style="padding-right:10px;" />
+<img align="left" alit="Lens"  width="26px" src="https://avatars.githubusercontent.com/u/108458858?s=200&v=4" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Solidty" width="26px" src="./solidity-icon.png" style="padding-right:10px;" />
 <img align="left" alt="NextJs" width="26px" src="./nextjs-icon.png" style="padding-right:10px;" />
