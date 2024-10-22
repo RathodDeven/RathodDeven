@@ -3,6 +3,7 @@
 ## I make web apps, mobile apps, and games!!
 
 - Building [https://bloomers.tv](https://bloomers.tv) (1.5k+ mau) open source streaming platform on lens , [Twitter](https://x.com/bloomerstv) 
+- Raising a [Hand](https://handprotocol.org)
 - 🔭 Built & grew DiverseHQ (5k+ users).
 - 👯 I’m also working on many other web3 open-source projects. 
 - ⚡ Things I like: Books, anime and gaming
